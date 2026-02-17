@@ -1,8 +1,5 @@
-# Program #1: Kilometer Converter
-# Write a program that asks the user to enter a distance in kilometers, 
-# then converts that distance to miles.  The conversion formula is as follows:  
-# Miles = kilometers x 0.6214.   
-# The conversion must be done as a function with input and output.
+# kilometer conversion program
+# written by Wesley Greer on 2/17/2026
 
 
 def kilometer_conversion(kilometers):    
